@@ -4,5 +4,5 @@
 // console.log(Math.sub(5, 3));
 
 const { add, sub } = require('./Math.js');
-console.log(add(5, 3)); // Outputs: 8
-console.log(sub(5, 3)); // Outputs: 2
+console.log(add(5, 3));
+console.log(sub(5, 3)); 
