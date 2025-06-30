@@ -16,3 +16,9 @@
 1750608359885: /about?name=anurag New Req Received
 1750608367195: /about New Req Received
 1750608380325: /about?name=ujjaval New Req Received
+1750654207921: GET / New Req Received
+1750654221342: GET /signup New Req Received
+1750654412024: GET /search?search_query=Hello+world New Req Received
+1750654418309: GET /search New Req Received
+1750655197375: GET /search New Req Received
+1750655201579: GET / New Req Received
